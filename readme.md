@@ -1,5 +1,6 @@
 # koa2-proxy
-
+一个koa2中间件解决跨域的问题
+# Koa Proxies
 一定要全局安装(koa1.2和koa2都己经支持)，
 koa1.2 生成一个test项目,切到test目录并下载依赖 
 koa2 生成一个test项目,切到test目录并下载依赖 
